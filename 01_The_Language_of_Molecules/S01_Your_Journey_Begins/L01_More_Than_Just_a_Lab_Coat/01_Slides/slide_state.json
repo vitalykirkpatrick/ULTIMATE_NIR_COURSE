@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "title": "More Than Just a Lab Coat",
+    "created": 1766483072.7104502,
+    "last_updated": 1766483403.9686334,
+    "total_slides": 8
+  },
+  "slides": {
+    "L01_S01_Title": "edited",
+    "L01_S02_The_Bridge": "edited",
+    "L01_S03_ALCOA": "edited",
+    "L01_S04_Garbage_In_Out": "edited",
+    "L01_S05_Data_Ecosystem": "edited",
+    "L01_S06_Scenario": "edited",
+    "L01_S07_Pro_Tip": "edited",
+    "L01_S08_Summary": "edited"
+  },
+  "outline": [
+    {
+      "id": "L01_S01_Title",
+      "title": "More Than Just a Lab Coat",
+      "summary": "Title slide with key concepts and the 'Analyst as Bridge' visual.",
+      "image_plan": "Use a suitable image if needed",
+      "slide_template_key": ""
+    },
+    {
+      "id": "L01_S02_The_Bridge",
+      "title": "The Analyst is a Bridge, Not an Island",
+      "summary": "Diagram showing the analyst connecting R&D, Production, QA, and Management.",
+      "image_plan": "Use a suitable image if needed",
+      "slide_template_key": ""
+    },
+    {
+      "id": "L01_S03_ALCOA",
+      "title": "ALCOA+: The 9 Commandments",
+      "summary": "The 9 principles of Data Integrity displayed on a holographic tablet.",
+      "image_plan": "Use a suitable image if needed",
+      "slide_template_key": ""
+    },
+    {
+      "id": "L01_S04_Garbage_In_Out",
+      "title": "Rule #1: Garbage In = Garbage Out",
+      "summary": "Comparison of good vs. bad spectra showing the impact of sample prep.",
+      "image_plan": "Use a suitable image if needed",
+      "slide_template_key": ""
+    },
+    {
+      "id": "L01_S05_Data_Ecosystem",
+      "title": "Follow the Data: From Photon to Profit",
+      "summary": "Flowchart showing the journey of data from instrument to business decision.",
+      "image_plan": "Use a suitable image if needed",
+      "slide_template_key": ""
+    },
+    {
+      "id": "L01_S06_Scenario",
+      "title": "The Scenario: The Midnight Delivery",
+      "summary": "A dramatic scenario with an unlabeled sample arriving at midnight.",
+      "image_plan": "Use a suitable image if needed",
+      "slide_template_key": ""
+    },
+    {
+      "id": "L01_S07_Pro_Tip",
+      "title": "Vitaly's Pro Tip",
+      "summary": "Expert advice on documentation and logbooks.",
+      "image_plan": "Use a suitable image if needed",
+      "slide_template_key": ""
+    },
+    {
+      "id": "L01_S08_Summary",
+      "title": "Key Takeaways",
+      "summary": "Summary of the main points: Bridge, Trust, Ownership.",
+      "image_plan": "Use a suitable image if needed",
+      "slide_template_key": ""
+    }
+  ]
+}

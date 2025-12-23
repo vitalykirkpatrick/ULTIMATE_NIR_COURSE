@@ -1,0 +1,157 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@400;700&family=Inter:wght@300;400;600&display=swap" rel="stylesheet">
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body { overflow: hidden; }
+        .slide-container {
+            width: 1280px;
+            min-height: 720px;
+            background-color: #0A0E1A;
+            font-family: 'Inter', sans-serif;
+            position: relative;
+            color: white;
+            overflow: hidden;
+        }
+        
+        .content-wrapper {
+            display: flex;
+            padding: 60px 60px 58px 60px; /* reduced bottom padding by 2px to fit exactly 720px */
+            height: 100%;
+            align-items: center;
+        }
+        
+        .left-column {
+            flex: 1;
+            padding-right: 50px;
+        }
+        
+        .right-column {
+            flex: 1;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+        }
+        
+        h1 {
+            font-family: 'Orbitron', sans-serif;
+            font-size: 42px;
+            font-weight: 700;
+            text-transform: uppercase;
+            margin-bottom: 10px;
+            text-shadow: 0 0 20px rgba(0, 217, 255, 0.3);
+            line-height: 1.2;
+        }
+        
+        h2 {
+            font-family: 'Inter', sans-serif;
+            font-size: 24px;
+            font-weight: 300;
+            color: #FF6B35; /* Orange for tension */
+            margin-bottom: 40px;
+            letter-spacing: 2px;
+        }
+        
+        .visual-container {
+            width: 100%;
+            height: 450px;
+            border-radius: 16px;
+            overflow: hidden;
+            border: 1px solid rgba(255, 107, 53, 0.3); /* Orange border */
+            box-shadow: 0 0 40px rgba(255, 107, 53, 0.1);
+        }
+        
+        .visual-image {
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+        }
+        
+        .scenario-card {
+            background: rgba(255, 255, 255, 0.05);
+            border-left: 4px solid #FF6B35;
+            padding: 30px;
+            border-radius: 0 12px 12px 0;
+            margin-bottom: 30px;
+        }
+        
+        .scenario-text {
+            font-size: 20px;
+            line-height: 1.6;
+            color: #E0E0E0;
+            margin-bottom: 20px;
+        }
+        
+        .highlight {
+            color: #FF6B35;
+            font-weight: 600;
+        }
+        
+        .challenge-box {
+            background: rgba(0, 217, 255, 0.1);
+            border: 1px solid #00D9FF;
+            padding: 24px;
+            border-radius: 12px;
+        }
+        
+        .challenge-title {
+            font-family: 'Orbitron', sans-serif;
+            color: #00D9FF;
+            font-size: 18px;
+            font-weight: 700;
+            margin-bottom: 10px;
+            text-transform: uppercase;
+        }
+        
+        .challenge-question {
+            font-size: 22px;
+            font-weight: 600;
+            color: white;
+        }
+        
+        .section-id {
+            position: absolute;
+            bottom: 30px;
+            right: 60px;
+            font-family: 'Orbitron', sans-serif;
+            color: #888;
+            font-size: 14px;
+        }
+    </style>
+</head>
+<body>
+    <div class="slide-container">
+        <div class="content-wrapper">
+            <div class="left-column">
+                <div class="visual-container">
+                    <img src="../assets/05_mystery_sample.jpg" class="visual-image" alt="Mystery Sample">
+                </div>
+            </div>
+            
+            <div class="right-column">
+                <h1>The Scenario:<br>The Midnight Delivery</h1>
+                <h2>WHAT WOULD YOU DO?</h2>
+                
+                <div class="scenario-card">
+                    <p class="scenario-text">
+                        It's <span class="highlight">11:55 PM</span>. Production is waiting on a critical raw material. 
+                        A sample jar appears on your desk with <span class="highlight">no label</span>, no paperwork, just a sticky note: "TEST ASAP".
+                    </p>
+                    <p class="scenario-text">
+                        Your manager calls: "We need to start the batch in 5 minutes. Is it safe to use?"
+                    </p>
+                </div>
+                
+                <div class="challenge-box">
+                    <div class="challenge-title">The Challenge</div>
+                    <div class="challenge-question">
+                        What are the first 3 steps you take to ensure Data Integrity?
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="section-id">SECTION 1 • LESSON 1</div>
+    </div>
+</body>
+</html>
