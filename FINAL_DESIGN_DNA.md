@@ -110,6 +110,14 @@ The background is **never a solid color**. It is a deep, textured 'canyon navy b
 - ❌ NO footer text
 - ❌ NO "Presented by" credit
 - ❌ NO slide numbers
+- ❌ NO lesson numbers on slides (e.g., "L02" or "Lesson 2")
+
+**Lesson Numbering Policy:**
+- Lesson numbers are used in **file naming** (e.g., `L02_What_is_Analytical_Chemistry.mp4`)
+- Lesson numbers appear in the **platform interface** (course navigation, LMS, website)
+- Lesson numbers are in **video titles and metadata**
+- **Slides remain clean** with only the lesson title in top-left corner (e.g., "What is Analytical Chemistry?")
+- This follows Coursera and MOOC best practices: platform handles navigation, slides stay professional and reusable
 
 **Key Concepts Panel:**
 - Appears ONLY on the title slide
@@ -117,9 +125,37 @@ The background is **never a solid color**. It is a deep, textured 'canyon navy b
 
 **Layout:**
 - **Center-Top:** Main lesson title (White, large, bold)
-- **Left Side:** Semi-transparent panel with "KEY CONCEPTS" header and 3-5 bullet points (Gold text, full phrases, not single words)
-- **Right Side:** 3D visualization related to the lesson topic
+- **Left Side:** 3D visualization or realistic photo related to the lesson topic
+- **Right Side:** Key Concepts panel (fixed position, consistent across all lessons)
 - **NO FOOTER on any slide**
+
+**Key Concepts Panel Specifications:**
+- **Location:** Always on the RIGHT side of title slides (fixed position)
+- **Visual Treatment:** 
+  - Semi-transparent dark panel (#001122 with 70-80% opacity)
+  - Subtle cyan/teal GLOW (#00FFCC or #00D9FF) around the box edges (6-8px soft glow, NOT thick border)
+  - Rounded corners (8-12px border-radius) for modern look
+  - Panel should feel integrated into the slide, not floating
+- **Size:** Fixed dimensions across all title slides (approximately 380-420px width × 480-520px height, positioned 60-80px from right edge, 140-160px from top)
+- **Header:** "KEY CONCEPTS" in white or cyan (#00D9FF), bold, 24-28px, left-aligned within panel
+- **Content Format:** 3-5 bullet points, each with:
+  - Small glowing icon to the left (16-20px, cyan #00D9FF)
+  - Descriptive phrase with **COLOR-CODED key terms** for better learning and memory retention:
+    - **Cyan (#00D9FF)** - Primary concepts and main terms
+    - **Purple/Magenta (#B87FFF or #FF00FF)** - Technical details and secondary concepts
+    - **Orange/Gold (#FFB800 or #FF6B35)** - Warnings, critical alerts, important distinctions
+  - Supporting text in white (#FFFFFF)
+  - Full phrases, not single words (e.g., "**Qualitative** vs **Quantitative** Analysis")
+- **Icon Style:** Line art, glowing cyan, simple and recognizable
+- **Typography:** Bold key terms, regular weight for supporting text
+- **Consistency:** Use the same panel size, glow effect, layout, and color-coding strategy for every title slide
+
+**Why Color-Coded Text Improves Learning:**
+- Students can quickly scan for specific types of information
+- Color associations enhance memory retention and recall
+- Visual hierarchy guides attention to most important concepts
+- Different colors help students **isolate and categorize** information mentally
+- Consistent color meanings across all lessons build pattern recognition
 
 **Visual Style:** The 3D visual should be a metaphor for the lesson (e.g., data network for chemometrics, bridge for analyst role).
 
