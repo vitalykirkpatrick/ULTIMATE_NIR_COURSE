@@ -77,9 +77,15 @@ The background is **never a solid color**. It is a deep, textured 'canyon navy b
 
 **For Content Slides Within a Lesson (all slides AFTER the title slide):**
 - ✅ Top-left corner: Lesson title in small cyan text (e.g., "Introduction to NIR Spectroscopy")
+- ✅ Key Concepts panel remains visible on the right side (same size and position as title slide)
 - ❌ NO footer text
 - ❌ NO "Presented by" credit
 - ❌ NO slide numbers
+
+**Key Concepts Panel Consistency:**
+- The Key Concepts panel should appear on ALL slides within a lesson (title slide AND content slides)
+- Same size, same position (right side), same styling throughout
+- This creates visual continuity and keeps students oriented to learning objectives
 
 **Layout:**
 - **Center-Top:** Main lesson title (White, large, bold)
