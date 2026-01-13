@@ -68,15 +68,24 @@ The background is **never a solid color**. It is a deep, textured 'canyon navy b
 ### **A. Title Slide**
 **Purpose:** Introduce the lesson and list Key Concepts.
 
+**CRITICAL HEADER AND FOOTER RULES:**
+
+**For ALL Title Slides (Course-Level AND Lesson-Level):**
+- ❌ NO header text
+- ❌ NO footer text
+- ✅ Just the title content in the center
+
+**For Content Slides Within a Lesson (all slides AFTER the title slide):**
+- ✅ Top-left corner: Lesson title in small cyan text (e.g., "Introduction to NIR Spectroscopy")
+- ❌ NO footer text
+- ❌ NO "Presented by" credit
+- ❌ NO slide numbers
+
 **Layout:**
-- **Top-Left Header:** "MODULE X • SECTION Y • LESSON Z" (Cyan/Teal color, sans-serif, bullet separators)
-  - **CRITICAL:** Use ONLY this format. Do NOT add "Ultimate NIR Course" or any other text.
-  - Example: "MODULE 5 • SECTION 13 • LESSON 01"
 - **Center-Top:** Main lesson title (White, large, bold)
 - **Left Side:** Semi-transparent panel with "KEY CONCEPTS" header and 3-5 bullet points (Gold text, full phrases, not single words)
 - **Right Side:** 3D visualization related to the lesson topic
-- **Bottom-Left Footer:** "Presented by Vitaly Kirkpatrick" (White, light weight 300)
-  - **CRITICAL:** Use ONLY this format. Do NOT add slide numbers on title slides.
+- **NO FOOTER on any slide**
 
 **Visual Style:** The 3D visual should be a metaphor for the lesson (e.g., data network for chemometrics, bridge for analyst role).
 
