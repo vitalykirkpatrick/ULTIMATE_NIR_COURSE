@@ -1,102 +1,92 @@
-# The Ultimate Analytical Chemist's Toolkit
+# NIR Course System: Three-Tier Training Program
 
-**Version:** 4.0  
-**Date:** December 23, 2025  
-**Instructor:** Vitaly Kirkpatrick
-
-## Course Philosophy
-
-This is more than a course; it's a career-building journey. We will transform students into world-class analytical chemists, capable of not just running an instrument, but solving real-world problems in the food and agriculture industries. The course is built on a narrative of discovery, with Vitaly as the expert guide.
+**Complete documentation for the NIR (Near-Infrared Spectroscopy) three-tier course system**
 
 ---
 
-## Course Structure
+## 📚 Course Structure
 
-The course is organized into **5 Modules** and **19 Sections**, totaling over **70 lessons**.
+This repository contains the complete planning and strategy documentation for a comprehensive three-tier NIR training system:
 
-### Module 1: The Language of Molecules
-**Goal:** To build a rock-solid foundation in the fundamental principles of chemistry and spectroscopy.
+### **Tier 1: NIR Fundamentals** (32 Lessons, 8 Weeks)
+- Target: Students, career changers, lab technicians, general public
+- Platform: Coursera
+- Price: $97 (Standard)
+- [View Complete Course Details](./NIR_Fundamentals_Course_Details.md)
 
-- **Section 01:** Your Journey Begins: An Introduction to Analytical Chemistry
-- **Section 02:** The Building Blocks of Life: Organic Chemistry for Food Scientists
-- **Section 03:** The Analytical Toolbox: A Survey of Techniques
+### **Tier 2: NIR for Professionals** (36 Lessons, 9 Weeks)
+- Target: QC/QA professionals, method developers, lab managers
+- Platform: Coursera
+- Price: $197 (Standard)
+- [View Complete Course Details](./NIR_for_Professionals_Course_Details.md)
 
-### Module 2: Mastering the NIR Workflow
-**Goal:** To gain hands-on, practical mastery of the entire NIR analysis workflow, from sample to result.
-
-- **Section 04:** Inside the Black Box: NIR Instrumentation
-- **Section 05:** The Art of the Sample
-- **Section 06:** Capturing the Perfect Spectrum
-
-### Module 3: The Alchemist's Secret: Turning Data into Gold
-**Goal:** To master the art and science of chemometrics, transforming raw data into actionable insights.
-
-- **Section 07:** Welcome to the Matrix: An Introduction to Chemometrics
-- **Section 08:** Cleaning the Canvas: Spectral Pre-processing
-- **Section 09:** Is It or Isn't It?: Qualitative Analysis
-- **Section 10:** How Much Is In There?: Quantitative Analysis
-
-### Module 4: Forging the Oracle: Building Models That Work
-**Goal:** To learn the advanced art of building, validating, and maintaining robust calibration models.
-
-- **Section 11:** The Blueprint for a Great Model
-- **Section 12:** Trust, but Verify: Model Validation
-- **Section 13:** One Model to Rule Them All: Calibration Transfer
-- **Section 14:** Beyond the Straight Line: Advanced Methods
-
-### Module 5: From the Lab to the World
-**Goal:** To apply your knowledge to real-world challenges in food, agriculture, and beyond.
-
-- **Section 15:** The Complete Guide to Food and Agriculture Analysis
-- **Section 16:** Guardians of the Food Supply: Safety and Authenticity
-- **Section 17:** The Business of Analysis: Implementing a Successful Program
-- **Section 18:** The Future is Vibrating: Emerging Technologies
-- **Section 19:** Your Final Challenge: The Capstone Project
+### **Tier 3: Ultimate NIR Mastery** (110 Lessons, 12 Modules)
+- Target: Experienced professionals seeking mastery
+- Platform: Self-hosted
+- Price: $497-$997 (3 tiers)
+- [View Complete Course Details](./Ultimate_NIR_Mastery_Course_Details.md)
 
 ---
 
-## Lesson Deliverables
+## 📋 Documentation Files
 
-Each lesson includes **10 standardized deliverables**:
-
-1. **Slides** (HTML Presentation)
-2. **Lesson Script** (Full Narration)
-3. **Quiz** (10 Questions)
-4. **Glossary** (Key Terms)
-5. **Cheat Sheet** (1-Page Summary)
-6. **Exercises** (Hands-On Practice)
-7. **Case Study** (Real-World Application)
-8. **Further Reading** (Curated Resources)
-9. **Website Assets** (Hero Image & Thumbnail)
-10. **Audio Narration** (Optional)
+| Document | Description |
+|:---------|:------------|
+| [NIR_Fundamentals_Course_Details.md](./NIR_Fundamentals_Course_Details.md) | Complete lesson-by-lesson breakdown with SEO keywords |
+| [NIR_for_Professionals_Course_Details.md](./NIR_for_Professionals_Course_Details.md) | Professional course structure and learning outcomes |
+| [Ultimate_NIR_Mastery_Course_Details.md](./Ultimate_NIR_Mastery_Course_Details.md) | Advanced mastery program structure |
+| [NIR_Fundamentals_Engagement_Strategy.md](./NIR_Fundamentals_Engagement_Strategy.md) | Quizzes, worksheets, discussion prompts, and assessment strategy |
+| [Final_Phased_Rollout_Strategy.md](./Final_Phased_Rollout_Strategy.md) | "Silent Launch & Retrofit" rollout plan |
+| [Three_Tier_NIR_Course_Comparison.md](./Three_Tier_NIR_Course_Comparison.md) | Side-by-side comparison of all three tiers |
 
 ---
 
-## Design Philosophy
+## 🎯 Launch Strategy: "Silent Launch & Retrofit"
 
-The course follows a **"High-Fidelity Technical Realism"** design approach:
+We are using a phased, customer-centric launch approach:
 
-- **Realistic Photography:** Actual lab equipment, real samples, real people.
-- **Practical Scenarios:** Every concept is grounded in a real-world problem.
-- **Rule-Based Frameworks:** Memorable "Rules" and "Laws" for easy recall.
-- **Visual Comparisons:** Clear "Good vs. Bad" examples.
+1. **Phase 1:** Launch NIR Fundamentals as a standalone product (no teasers)
+2. **Phase 2:** Launch NIR for Professionals 6-12 months later, retrofit Fundamentals with announcement
+3. **Phase 3:** Launch Ultimate NIR Mastery 12-18 months later, retrofit both previous courses
 
----
+This approach prioritizes trust and quality over hype.
 
-## Version Control & Backup
-
-This repository is synchronized with:
-- **GitHub:** [Repository Link]
-- **Google Drive:** [Drive Link]
-
-All content is version-controlled and backed up after each lesson is completed.
+[View Complete Strategy](./Final_Phased_Rollout_Strategy.md)
 
 ---
 
-## Contact
+## 📊 Engagement Materials (NIR Fundamentals)
 
-For questions or feedback, please contact Vitaly Kirkpatrick.
+- **Practice Quizzes:** 2
+- **Weekly Graded Quizzes:** 7
+- **Discussion Prompts:** 3
+- **Hands-On Worksheets:** 2
+- **Reference Guides:** 4
+- **Major Exercise:** 1
+- **Final Exam:** 1
+
+**Total Student Touchpoints:** 20
+
+[View Complete Engagement Strategy](./NIR_Fundamentals_Engagement_Strategy.md)
 
 ---
 
-**© 2025 The Ultimate Analytical Chemist's Toolkit. All Rights Reserved.**
+## 🚀 Status
+
+**Current Phase:** Documentation complete, ready to begin content creation for NIR Fundamentals
+
+**Next Steps:**
+1. Create slides for Lessons 3-32
+2. Generate narration scripts (95+ words per slide)
+3. Create HTML content pages with explanatory images
+4. Develop all supplemental materials (quizzes, worksheets, guides)
+
+---
+
+## 📝 License
+
+© 2026 Vitaly Kirkpatrick. All rights reserved.
+
+---
+
+**Last Updated:** January 12, 2026
