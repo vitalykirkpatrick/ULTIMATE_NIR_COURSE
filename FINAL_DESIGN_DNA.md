@@ -102,7 +102,8 @@ The background is **never a solid color**. It is a deep, textured 'canyon navy b
 **For ALL Title Slides (Course-Level AND Lesson-Level):**
 - ❌ NO header text
 - ❌ NO footer text
-- ✅ Just the title content in the center
+- ❌ NO "Presented by" credit (instructor already introduced in L00)
+- ✅ Just the title content in the center and Key Concepts panel
 
 **For Content Slides Within a Lesson (all slides AFTER the title slide):**
 - ✅ Top-left corner: Lesson title in small cyan text (e.g., "Introduction to NIR Spectroscopy")
@@ -133,29 +134,51 @@ The background is **never a solid color**. It is a deep, textured 'canyon navy b
 - **Location:** Always on the RIGHT side of title slides (fixed position)
 - **Visual Treatment:** 
   - Semi-transparent dark panel (#001122 with 70-80% opacity)
-  - Subtle cyan/teal GLOW (#00FFCC or #00D9FF) around the box edges (6-8px soft glow, NOT thick border)
+  - **SUBTLE cyan/teal GLOW** (#00FFCC or #00D9FF) around the box edges (**4-6px soft glow**, NOT thick border)
   - Rounded corners (8-12px border-radius) for modern look
   - Panel should feel integrated into the slide, not floating
-- **Size:** Fixed dimensions across all title slides (approximately 380-420px width × 480-520px height, positioned 60-80px from right edge, 140-160px from top)
+- **Size:** Fixed dimensions across all title slides (approximately 350-400px width × 450-500px height, positioned 60-80px from right edge, 140-160px from top)
 - **Header:** "KEY CONCEPTS" in white or cyan (#00D9FF), bold, 24-28px, left-aligned within panel
 - **Content Format:** 3-5 bullet points, each with:
-  - Small glowing icon to the left (16-20px, cyan #00D9FF)
-  - Descriptive phrase with **COLOR-CODED key terms** for better learning and memory retention:
-    - **Cyan (#00D9FF)** - Primary concepts and main terms
-    - **Purple/Magenta (#B87FFF or #FF00FF)** - Technical details and secondary concepts
-    - **Orange/Gold (#FFB800 or #FF6B35)** - Warnings, critical alerts, important distinctions
+  - Small glowing icon to the left (20-24px, cyan #00D9FF, line-art style)
+  - Descriptive phrase with **MINIMAL COLOR-CODING** (see COLOR_CODING_STRATEGY.md):
+    - **90% of text should be WHITE**
+    - Only 1-2 key words per bullet get colored (NOT whole phrases)
+    - Many bullets have ZERO colored words (this is intentional and correct)
+    - **Cyan (#00D9FF)** - Primary concepts (1-2 words max per bullet)
+    - **Purple/Magenta (#B87FFF)** - Technical details (rarely used)
+    - **Orange/Gold (#FFB800)** - Warnings/critical alerts ONLY
   - Supporting text in white (#FFFFFF)
-  - Full phrases, not single words (e.g., "**Qualitative** vs **Quantitative** Analysis")
-- **Icon Style:** Line art, glowing cyan, simple and recognizable
-- **Typography:** Bold key terms, regular weight for supporting text
-- **Consistency:** Use the same panel size, glow effect, layout, and color-coding strategy for every title slide
+  - Examples: "• Viscosity & Homogeneity" (NO color), "• **Temperature** Control" (only "Temperature" colored)
+- **Icon Style:** Line art, glowing cyan, simple and recognizable, 20-24px
+- **Typography:** Bold key terms (1-2 words max), regular weight for all other text
+- **Consistency:** Use the same panel size, glow effect, layout, and RESTRAINED color strategy for every title slide
 
-**Why Color-Coded Text Improves Learning:**
-- Students can quickly scan for specific types of information
-- Color associations enhance memory retention and recall
-- Visual hierarchy guides attention to most important concepts
-- Different colors help students **isolate and categorize** information mentally
-- Consistent color meanings across all lessons build pattern recognition
+**CRITICAL: Restrained Color-Coding Strategy**
+
+Based on analysis of successful previous lessons, color must be used **EXTREMELY SPARINGLY**:
+
+- **90% of text should be WHITE** - Color is the exception, not the rule
+- **Only 1-2 words per bullet** get colored (maximum)
+- **Many bullets have ZERO colored words** - This is intentional and correct
+- **NEVER color full sentences** - Only single key terms
+- **NEVER color supporting words** (and, vs, the, is, of, in, etc.)
+- **If unsure, keep it white** - Less is more
+
+**Examples from Successful Lessons:**
+- "• Miniaturization (Handhelds)" - NO color, all white ✅
+- "• Cloud Connectivity & IoT" - NO color, all white ✅
+- "• **Viscosity** & Homogeneity" - Only "Viscosity" colored ✅
+- "• **Temperature** Control" - Only "Temperature" colored ✅
+
+**Why Restrained Color Improves Learning:**
+- More professional and easier to read
+- Focuses attention on what truly matters
+- Doesn't overwhelm students with visual noise
+- Color becomes impactful when used sparingly
+- Matches industry-leading course design (Coursera, edX, Udacity)
+
+**See COLOR_CODING_STRATEGY.md for complete guidelines.**
 
 **Visual Style:** The 3D visual should be a metaphor for the lesson (e.g., data network for chemometrics, bridge for analyst role).
 
