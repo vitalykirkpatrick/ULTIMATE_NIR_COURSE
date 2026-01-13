@@ -27,6 +27,8 @@ This system provides **automated, comprehensive quality control** that detects A
 - ✅ Required elements (headers, footers, presenter name)
 - ✅ Name spelling verification
 - ✅ **Sequential image numbering** (for video production)
+- ✅ **Visual content presence** (not just text-only slides)
+- ✅ **Appropriate visual type** (realistic photos where necessary, conceptual graphics where appropriate)
 
 **Usage:**
 ```bash

@@ -68,6 +68,35 @@ The background is **never a solid color**. It is a deep, textured 'canyon navy b
 ### **A. Title Slide**
 **Purpose:** Introduce the lesson and list Key Concepts.
 
+**CRITICAL VISUAL CONTENT REQUIREMENT:**
+
+**Every title slide MUST include:**
+- ✅ **Visual elements that show what the lesson is about** (not just title + text)
+- ✅ **Use realistic real-world images WHERE NECESSARY** (equipment, facilities, people, processes)
+- ✅ **Use conceptual graphics/icons where appropriate** (abstract concepts, theory, frameworks)
+- ✅ **Combination of visuals + text** that represent the lesson content
+- ❌ **NOT just title + key concepts text** - must have visual storytelling
+
+**When to use realistic photos:**
+- Title slides (set visual context)
+- Equipment/instrument demonstrations
+- Application examples (grain elevators, dairy facilities, production lines)
+- People/processes (analysts working, sampling, testing)
+- Real-world scenarios
+
+**When conceptual graphics are appropriate:**
+- Abstract scientific concepts (light, molecules, energy)
+- Comparisons and contrasts
+- Diagrams, flowcharts, timelines
+- Data visualizations
+- Theoretical frameworks
+
+**Examples:**
+- Lesson about instruments → Show actual NIR spectrometer equipment in a lab (realistic photo)
+- Lesson about applications → Show real grain elevator or dairy facility (realistic photo)
+- Lesson about light & matter → Show conceptual graphics of electromagnetic waves (graphics/icons)
+- Lesson about learning journey → Show path/progression with learning milestones (conceptual graphics)
+
 **CRITICAL HEADER AND FOOTER RULES:**
 
 **For ALL Title Slides (Course-Level AND Lesson-Level):**
