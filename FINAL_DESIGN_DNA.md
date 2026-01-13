@@ -38,10 +38,10 @@ Every slide is a cinematic, futuristic visualization that teaches through visual
 
 ## **3. Background Treatment**
 
-The background is **never a solid color**. It always includes:
+The background is **never a solid color**. It is a deep, textured 'canyon navy blue' that subtly incorporates thematic elements from the lesson itself. It always includes:
 
 - **Base:** Dark navy (#001122)
-- **Flowing Waves:** Cyan and gold sine waves in the background (subtle, not overwhelming)
+- **Thematic Elements:** Faint, 'ghostly' outlines of visuals related to the lesson topic (e.g., wheat stalks for a bread lesson, molecules for a chemistry lesson) are integrated into the navy blue texture. These should be very subtle and not distract from the main content.
 - **Glowing Accents:** Soft cyan glows in corners or behind visuals
 - **Grid Lines:** Optional faint grid pattern for technical slides
 

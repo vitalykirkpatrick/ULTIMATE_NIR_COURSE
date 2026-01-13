@@ -20,7 +20,7 @@ This system provides **automated, comprehensive quality control** that detects A
 
 **Checks Performed:**
 - ✅ Image properties (resolution, aspect ratio)
-- ✅ Background color (dark cosmic vs white)
+- ✅ Background style (themed canyon navy blue vs. solid color)
 - ✅ Debug text detection (OCR-based)
 - ✅ Border detection (edge analysis)
 - ✅ Color consistency (accent colors)
